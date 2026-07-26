@@ -32,3 +32,38 @@
 - ai_amily和donghua_images曾临时搜不到（2026-07-22），后来恢复。可能是x_search临时问题，不是封号。
 - mwntokk发帖量少，仅搜到13条图片帖。
 - ai_dailypic498图片量极大（123张/170MB），打包发送会失败，需用户从服务器直取。
+
+## prompt_gallery 新增博主（2026-07-27添加）
+
+| 序号 | 昵称 | X 账号 | 备注 |
+|------|------|--------|------|
+| 16 | AI_NeoWorld | @AI_NeoWorld | AI内容创作者 |
+| 17 | Cell 细胞 | @cellinlab | AI内容创作者 |
+| 18 | draco | @DracoVibeCoding | ONE PIECE/美少女战士水拓画风格 |
+| 19 | Eesha | @MissDelulu9 | AI内容创作者 |
+| 20 | Fred-New | @Fred834567 | GitHub免费资源分享 |
+| 21 | Gilbert Odera | @yourPlugAI | AI内容创作者 |
+| 22 | John | @johnAGI168 | 简单提示词出好效果 |
+| 23 | Loriel.AI | @ou_zhen599 | AI内容创作者 |
+| 24 | Maddox | @Maddox_Digital | ChatGPT Person系列 |
+| 25 | Maercih | @Maercihh | GPT image 2.0创作 |
+| 26 | NoorAI | @noorwithwifi | AI内容创作者 |
+| 27 | Prompt アトリエ | @CyberTotal2026 | 日语AI画像プロンプト |
+| 28 | Sairah | @Sairah_0 | GPT Image 2创作 |
+| 29 | Saul Goodman | @Goodmanprotocol | AI内容创作者 |
+| 30 | serein | @you1873118 | 买美股上币安/AI内容 |
+| 31 | Taaruk | @Taaruk_ | AI内容创作者 |
+| 32 | ToroJushiAi | @ToroJushiAi | GPT Image 2写实奢华风格 |
+| 33 | Vigo Zhao | @VigoCreativeAI | AI内容创作者 |
+| 34 | ViktorAI未来志 | @dannywayli | AI内容创作者 |
+| 35 | VoxCat | @VoxcatAI | AI内容创作者 |
+| 36 | Zidan 子丹 | @liluocheng13 | AI内容创作者 |
+| 37 | 周防義経 | @y_suou | 自撮り風AIart日系自拍 |
+| 38 | 小小东 | @xiaoxiaodong01 | GPT2婚礼/早安系列 |
+| 39 | 月无关 \| 0xKyne | @0xkyne | AI内容创作者 |
+| 40 | 李岳 | @liyue_ai | GPT Image 2美妆图片 |
+| 41 | 逸尘 | @gengdaJ | AI内容创作者 |
+
+## 更新日志
+- 2026-07-26: 初始7博主+新增8博主=15个
+- 2026-07-27: 从prompt_gallery新增26个博主，总计41个
